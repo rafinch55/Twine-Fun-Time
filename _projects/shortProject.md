@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Twine Archive
+description: Twine games here were built prior to the summer and hopefully will live here for posterity or just as a way to remember when...
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 

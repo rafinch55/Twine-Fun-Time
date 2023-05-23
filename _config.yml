@@ -14,15 +14,11 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
+linkedin: "https://www.linkedin.com/in/ricky-finch-bb9364106/"
+github: "https://github.com/rafinch55"
 instagram: "#"
 facebook: "#"
-
+mastadon: https://mastodon.social/@rafinch
 
 # Markdown
 highlighter: rouge

@@ -2,16 +2,13 @@
 layout: about
 permalink: /
 profile:
-  align: right
-  image: profile.png
+  align: left
+  image: Twine pic.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
-
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
-
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+[About Me](url)
+My name is Ricky! I am a first year student in UCF's Text and Technology PhD program. I have a Masters in Composition Rhetoric and Digital Media and Bachelor's in English. This summer I am working on an independent study which focuses on Twine as a game and E-lit platform. I am using this study as an oppurtunity to explore and create through Twine. If you have any questions, comments or ideas feel free to contact me. 
 
 PS: If you liked the theme, do star it on GitHub!
 
